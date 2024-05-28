@@ -1,0 +1,4 @@
+Các phương thức của API
+- GET: gửi y/c lên server y/c server trả lại dữ liệu cho client
+- POST: gửi y/c lên server y/c server tạo mới dữ liệu
+- PUT/PATCH: chỉnh sửa dữ liệu
